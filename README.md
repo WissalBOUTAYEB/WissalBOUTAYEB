@@ -2,38 +2,38 @@
 <h3 align="center">🔒 Cybersecurity Engineering Student | Full Stack Developer | Pentester</h3>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wissalboutayeb&label=Profile%20Views&color=0e75b6&style=flat" alt="wissalboutayeb" />
+  <img src="https://komarev.com/ghpvc/?username=wissalboutayeb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>  
 
 ---
 
-## 🎯 **Actuellement en train de travailler sur :**  
-- 🔎 **WAZUH SIEM** : Configuration et intégration pour la surveillance des menaces.  
-- 📊 **Nagios** : Installation et configuration pour la supervision des infrastructures IT.  
-- 🛠️ **Bug Bounty & Pentesting** : Recherche et exploitation de vulnérabilités.  
-- 🌐 **Développement Web** : Apprentissage de Laravel et React.  
+## 🎯 **Currently Working On**  
+- 🔎 **WAZUH SIEM**: Configuration and integration for threat monitoring.  
+- 📊 **Nagios**: Installation and configuration for IT infrastructure monitoring.  
+- 🛠️ **Bug Bounty & Pentesting**: Finding and exploiting vulnerabilities.  
+- 🌐 **Web Development**: Learning Laravel and React.  
 
 ---
 
-## 📂 **Portfolio - Projets Académiques et Personnels**  
-💻 **[Mon Portfolio](#) (à compléter avec un lien)** - Découvrez mes projets en cybersécurité et développement web.  
+## 📂 **Portfolio - Academic & Personal Projects**  
+💻 **[My Portfolio](#)** *(Add the link once available)* - Discover my cybersecurity and web development projects.  
 
-🚀 **Projets récents :**  
-- 🔥 **Déploiement d’un SIEM avec Wazuh et ELK** : Surveillance et analyse des logs en temps réel.  
-- 🕵️ **Détection des menaces avec Suricata** : Analyse du trafic réseau et mise en place de règles personnalisées.  
-- 🎭 **Honeypots avancés** : Déploiement de Dionaea, Cowrie et Honeyd pour l’étude des cyberattaques.  
-- 🛡️ **CTF Challenges** : Participation à des compétitions en cybersécurité (3ème place à SparkSec Summit v1.0).  
+🚀 **Recent Projects:**  
+- 🔥 **SIEM Deployment with Wazuh & ELK**: Real-time log monitoring and analysis.  
+- 🕵️ **Threat Detection with Suricata**: Network traffic analysis and custom rules setup.  
+- 🎭 **Advanced Honeypots**: Deploying Dionaea, Cowrie, and Honeyd to analyze cyberattacks.  
+- 🛡️ **CTF Challenges**: 3rd place at **SparkSec Summit v1.0**.  
 
 ---
 
-## ⚙️ **Langages & Outils**  
+## ⚙️ **Tech Stack**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,python,docker,kubernetes,angular,react,nodejs,mysql,postgresql,php,bash,aws" alt="Tech Stack" />
 </p>  
 
 ---
 
-## 📊 **Statistiques GitHub**  
+## 📊 **GitHub Stats**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wissalboutayeb&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -44,15 +44,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissalboutayeb&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissalboutayeb&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
 ---
 
-## 📫 **Me contacter**  
-📩 **Email** : wissalboutayeb182@gmail.com  
-🔗 **[LinkedIn](#)** | **[GitHub](https://github.com/wissalboutayeb)**  
+## 📫 **Contact Me**  
+📩 **Email**: wissalboutayeb182@gmail.com  
+🔗 **[LinkedIn]([https://www.linkedin.com/in/wissalboutayeb](https://www.linkedin.com/in/wissal-boutayeb-b57a13277/))**  
+🔗 **[GitHub](https://github.com/wissalboutayeb)**  
 
 ---
 
-⚡ **Fun Fact** : I’m Funny! 😆  
+⚡ **Fun Fact**: I’m Funny! 😆  
