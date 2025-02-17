@@ -27,7 +27,7 @@
 
 ## ⚙️ **Tech Stack**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,kubernetes,mysql,oracle,php,bash,git,oracle" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,kubernetes,mysql,HTML,CSS,NodeJS,JavaScript,oracle,php,bash,git,oracle" alt="Tech Stack" />
 </p>  
 
 ### 🛡️ **Specialized in**  
