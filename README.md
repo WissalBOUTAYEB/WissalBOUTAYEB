@@ -51,7 +51,8 @@
 
 ## 📫 **Contact Me**  
 📩 **Email**: wissalboutayeb182@gmail.com  
-🔗 **[LinkedIn]([https://www.linkedin.com/in/wissalboutayeb](https://www.linkedin.com/in/wissal-boutayeb-b57a13277/))**  
+ 🔗 **[LinkedIn](https://www.linkedin.com/in/wissal-boutayeb-b57a13277/)**  
+ 
 🔗 **[GitHub](https://github.com/wissalboutayeb)**  
 
 ---
