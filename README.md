@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Wissal BOUTAYEB</h1>  
-<h3 align="center">🔒 Cybersecurity Engineering Student | CTF Player </h3>  
+<h3 align="center">🔒 Cybersecurity Engineering Student | Full Stack Developer | Pentester</h3>  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wissalboutayeb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -11,10 +11,12 @@
 - 🔎 **WAZUH SIEM**: Configuration and integration for threat monitoring.  
 - 📊 **Nagios**: Installation and configuration for IT infrastructure monitoring.  
 - 🛠️ **Bug Bounty & Pentesting**: Finding and exploiting vulnerabilities.  
-
+- 🌐 **Web Development**: Learning Laravel.  
 
 ---
 
+## 📂 **Portfolio - Academic & Personal Projects**  
+💻 **[My Portfolio](#)** *(Add the link once available)* - Discover my cybersecurity and web development projects.  
 
 🚀 **Recent Projects:**  
 - 🔥 **SIEM Deployment with Wazuh & ELK**: Real-time log monitoring and analysis.  
@@ -26,8 +28,15 @@
 
 ## ⚙️ **Tech Stack**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,kubernetes,angular,react,nodejs,mysql,postgresql,php,bash,aws" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,kubernetes,mysql,postgresql,php,bash" alt="Tech Stack" />
 </p>  
+
+### 🛡️ **Specialized in**  
+✅ **Cybersecurity**  
+✅ **DevSecOps**  
+✅ **WAZUH SIEM**  
+✅ **ELK Stack (Elasticsearch, Logstash, Kibana)**  
+✅ **Pentesting & Threat Hunting**  
 
 ---
 
@@ -49,8 +58,7 @@
 
 ## 📫 **Contact Me**  
 📩 **Email**: wissalboutayeb182@gmail.com  
- 🔗 **[LinkedIn](https://www.linkedin.com/in/wissal-boutayeb-b57a13277/)**  
- 
+🔗 **[LinkedIn](https://www.linkedin.com/in/wissal-boutayeb-b57a13277/)**  
 🔗 **[GitHub](https://github.com/wissalboutayeb)**  
 
 ---
