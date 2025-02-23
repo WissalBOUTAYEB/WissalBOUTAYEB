@@ -1,65 +1,50 @@
-<h1 align="center">👋 Hi, I'm Wissal BOUTAYEB</h1>  
-<h3 align="center">🔒 Cybersecurity Engineering Student | CTF Player </h3>  
+# 👋 Hi, I'm Wissal BOUTAYEB
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wissalboutayeb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>  
+## 🔒 Cybersecurity Engineering Student | CTF Enthusiast
+
+Currently in my 4th year of cybersecurity engineering at the Euro-Mediterranean University of Fès, I specialize in information systems security, penetration testing, and DevSecOps. I'm also an active CTF (Capture The Flag) player, constantly honing my offensive security skills.
 
 ---
 
-## 🎯 **Currently Working On**  
+## 🎯 Currently Working On
 - 🔎 **WAZUH SIEM**: Configuration and integration for threat monitoring.  
 - 📊 **Nagios**: Installation and configuration for IT infrastructure monitoring.  
-- 🛠️ **Bug Bounty & Pentesting**: Finding and exploiting vulnerabilities.  
-
-
----
-
-
-
-🚀 **Recent Projects:**  
-- 🔥 **SIEM Deployment with Wazuh & ELK**: Real-time log monitoring and analysis.  
-- 🕵️ **Threat Detection with Suricata**: Network traffic analysis and custom rules setup.  
-- 🎭 **Advanced Honeypots**: Deploying Dionaea, Cowrie, and Honeyd to analyze cyberattacks.  
-- 🛡️ **CTF Challenges**: 3rd place at **SparkSec Summit v1.0**.  
+- 🛠️ **Bug Bounty & Pentesting**: Identifying and exploiting vulnerabilities.  
 
 ---
 
-## ⚙️ **Tech Stack**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,kubernetes,mysql,html,css,nodejs,javascript,oracle,php,bash,git" alt="Tech Stack" />
-</p>  
-
-### 🛡️ **Specialized in**  
-✅ **Cybersecurity**  
-✅ **DevSecOps**  
-✅ **WAZUH SIEM**  
-✅ **ELK Stack (Elasticsearch, Logstash, Kibana)**  
-✅ **Pentesting & Threat Hunting**  
+## 🚀 Recent Projects
+- 🔥 **SIEM Deployment with Wazuh & ELK**: Real-time log monitoring and incident analysis.  
+- 🕵️ **Threat Detection with Suricata**: Network traffic analysis using custom rules to detect advanced attacks.  
+- 🎭 **Advanced Honeypots**: Deploying Dionaea, Cowrie, and Honeyd for cyberattack analysis and attacker data collection.  
+- 🛡️ **CTF Challenges**: Secured 3rd place at **SparkSec Summit v1.0**.  
 
 ---
 
-## 📊 **GitHub Stats**  
+## ⚙️ Tech Stack
+![Tech Stack](https://skillicons.dev/icons?i=linux,python,docker,kubernetes,mysql,html,css,nodejs,javascript,oracle,php,bash,git)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wissalboutayeb&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wissalboutayeb&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissalboutayeb&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
+### 🛡️ Specialized in
+- **Cybersecurity**
+- **DevSecOps**
+- **WAZUH SIEM**
+- **ELK Stack (Elasticsearch, Logstash, Kibana)**
+- **Pentesting & Threat Hunting**
 
 ---
 
-## 📫 **Contact Me**  
-📩 **Email**: wissalboutayeb182@gmail.com  
-🔗 **[LinkedIn](https://www.linkedin.com/in/wissal-boutayeb-b57a13277/)**  
-🔗 **[GitHub](https://github.com/wissalboutayeb)**  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wissalboutayeb&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wissalboutayeb&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissalboutayeb&layout=compact&theme=radical)
 
 ---
 
-⚡ **Fun Fact**: I’m Funny! 😆  
+## 📫 Contact Me
+- 📩 **Email**: wissalboutayeb182@gmail.com  
+- 🔗 [**LinkedIn**](https://www.linkedin.com/in/wissal-boutayeb-b57a13277/)  
+- 🔗 [**GitHub**](https://github.com/wissalboutayeb)  
+
+---
+
+⚡ **Fun Fact**: I love solving security puzzles and cracking CTF challenges! 😆
