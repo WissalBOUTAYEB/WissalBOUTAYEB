@@ -39,6 +39,8 @@ Currently in my 4th year of cybersecurity engineering at the Euro-Mediterranean 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissalboutayeb&layout=compact&theme=radical)
 
 ---
+## 📄 Resume  
+You can view or download my CV [here](./Wissal-BOUTAYEB-CV-PFA (1).pdf)
 
 ## 📫 Contact Me
 - 📩 **Email**: wissalboutayeb182@gmail.com  
