@@ -40,7 +40,7 @@ Currently in my 4th year of cybersecurity engineering at the Euro-Mediterranean 
 
 ---
 ## 📄 Resume  
-You can view or download my CV [here](./Resume-WissalBoutayeb)
+You can view or download my CV [here](./Resume-WissalBoutayeb/Wissal_Boutayeb_CV.pdf)
 
 ## 📫 Contact Me
 - 📩 **Email**: wissalboutayeb182@gmail.com  
