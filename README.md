@@ -30,6 +30,8 @@ Currently in my 4th year of cybersecurity engineering at the Euro-Mediterranean 
 - **WAZUH SIEM**
 - **ELK Stack (Elasticsearch, Logstash, Kibana)**
 - **Pentesting & Threat Hunting**
+- **Network Security**
+- 
 
 ---
 
