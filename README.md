@@ -2,14 +2,9 @@
 
 ## 🔒 Cybersecurity Engineering Student | CTF Enthusiast
 
-Currently in my 4th year of cybersecurity engineering at the Euro-Mediterranean University of Fès, I specialize in information systems security, penetration testing, and DevSecOps. I'm also an active CTF (Capture The Flag) player, constantly honing my offensive security skills.
+Currently in my 5th year of cybersecurity engineering at the Euro-Mediterranean University of Fès, I specialize in information systems security, penetration testing, and DevSecOps. I'm also an active CTF (Capture The Flag) player, constantly honing my offensive security skills.
 
 ---
-
-## 🎯 Currently Working On
-- 🔎 **WAZUH SIEM**: Configuration and integration for threat monitoring.  
-- 📊 **Nagios**: Installation and configuration for IT infrastructure monitoring.  
-- 🛠️ **Bug Bounty & Pentesting**: Identifying and exploiting vulnerabilities.  
 
 ---
 
