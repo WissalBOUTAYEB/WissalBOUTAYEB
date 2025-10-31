@@ -37,7 +37,7 @@ Currently in my 5th year of cybersecurity engineering at the Euro-Mediterranean 
 
 ---
 ## 📄 Resume  
-You can view or download my resume [here](./docs/BOUTAYEB Wissal CV PFE cybersécurité.pdf)
+You can view or download my resume [here](./BOUTAYEB Wissal CV PFE cybersécurité.pdf)
 
 ## 📫 Contact Me
 - 📩 **Email**: wissalboutayeb182@gmail.com  
