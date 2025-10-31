@@ -5,7 +5,7 @@
 I'm currently a **5th-year Cybersecurity Engineering Student** at the **Euro-Mediterranean University of Fès (UEMF)**.  
 Passionate about **information systems security**, **offensive and defensive cybersecurity**, and **DevSecOps**, I focus on strengthening digital infrastructures against real-world threats.  
 
-Curious and detail-oriented, I enjoy **analyzing vulnerabilities**, **deploying security solutions**, and continuously improving my skills through **CTF (Capture The Flag)** competitions and **hands-on security projects**.
+At the moment, I'm working on **Active Directory penetration testing**, exploring privilege escalation paths, Kerberos attacks, and detection techniques to improve Windows network defense.
 
 ---
 
@@ -20,11 +20,12 @@ Curious and detail-oriented, I enjoy **analyzing vulnerabilities**, **deploying 
 - 🎯 **Advanced Honeypots for Cyberattack Analysis**  
   Deployed and secured **Dionaea, Cowrie, and Honeyd** honeypots to capture and analyze attacker behavior using the **ELK Stack**.  
 
-- 🛡️ **Active Directory & Evil Twin Attack Simulation**  
-  Configured **Windows Server 2022 Active Directory** and simulated **Evil Twin attacks** with real-time detection through ELK.  
+- 🛡️ **Active Directory Security & Penetration Testing** *(Ongoing)*  
+  Configuring **Windows Server 2022 Active Directory** and performing **penetration testing** to identify misconfigurations, privilege escalation paths, and lateral movement vectors.  
+  Currently developing detection rules and correlating attack traces using **ELK Stack** and **Wazuh**.  
 
 - 🏆 **CTF Competitions**  
-  Secured **3rd place at SparkSec Summit v1.0**, organized by **SparkSec Club (UEMF)** with the support of **1337 Coding School**.
+  Secured **3rd place at SparkSec Summit v1.0**, organized by **SparkSec Club (UEMF)** with support from **1337 Coding School**.
 
 ---
 
@@ -34,6 +35,7 @@ Curious and detail-oriented, I enjoy **analyzing vulnerabilities**, **deploying 
 ### 🧩 Specialized In  
 - **Cybersecurity & Threat Detection**  
 - **Penetration Testing & Vulnerability Analysis**  
+- **Active Directory Security & Exploitation**  
 - **DevSecOps (Docker, Kubernetes, Ansible, Keycloak)**  
 - **SIEM & IDS/IPS (Wazuh, Suricata, ELK Stack, Snort)**  
 - **Network & System Security (Linux, Windows AD)**  
@@ -55,7 +57,7 @@ Curious and detail-oriented, I enjoy **analyzing vulnerabilities**, **deploying 
 ---
 
 ## 📄 Resume  
-📎 [**View my Resume**](WissalBOUTAYEB/BOUTAYEB Wissal CV PFE cybersécurité.pdf)
+📎 [**View my Resume**](BOUTAYEB%20Wissal%20CV%20PFE%20cybers%C3%A9curit%C3%A9.pdf)
 
 ---
 
@@ -67,4 +69,4 @@ Curious and detail-oriented, I enjoy **analyzing vulnerabilities**, **deploying 
 
 ---
 
-⚡ **Fun Fact:** I love exploring real-world vulnerabilities and turning challenges into learning opportunities through CTFs and cybersecurity labs! 🧩
+⚡ **Fun Fact:** I love exploring real-world vulnerabilities and turning challenges into learning opportunities through CTFs, labs, and penetration testing projects! 🧩
