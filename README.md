@@ -57,7 +57,7 @@ At the moment, I'm working on **Active Directory penetration testing**, explorin
 ---
 
 ## 📄 Resume  
-📎 [**View my Resume**](BOUTAYEB%20Wissal%20CV%20PFE%20cybers%C3%A9curit%C3%A9.pdf)
+📎 [**View my Resume**](BOUTAYEB Wissal CV PFE  cybersécurité.pdf)
 
 ---
 
